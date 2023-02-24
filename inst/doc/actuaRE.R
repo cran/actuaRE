@@ -8,7 +8,7 @@ options(rmarkdown.html_vignette.check_title = FALSE)
 ## ----logo, echo=FALSE, out.width="25%"----------------------------------------
 knitr::include_graphics("./actuaRE.png")
 
-## ----hMLF, fig.align = 'center', fig.cap = "Figure 1: Hierarchical structure of a hypothetical example", fig.topcaption = TRUE, echo = FALSE----
+## ----hMLF, fig.align = 'center', fig.cap = "Figure 1: Hierarchical structure of a hypothetical example", fig.topcaption = TRUE, echo = FALSE, out.width="100%"----
 knitr::include_graphics("./HierarchicalStructureAdj.png")
 
 ## -----------------------------------------------------------------------------
