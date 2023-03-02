@@ -1,4 +1,4 @@
-2fa80faac3c3a952789c202ea1521abd *DESCRIPTION
+da580f5b499ad288e0eb2cbfba221b06 *DESCRIPTION
 8741d6a4d367f87c5342699575af09a4 *NAMESPACE
 4ef7687893f0f8718391b8763affa9f4 *R/adjIntercept.R
 24fe9a410bff3f177199a07a80265c45 *R/helperFunctions.R
@@ -6,17 +6,17 @@
 5e172163a2bd2500c485a8bb68d205e4 *R/hierCredibility.R
 3f4d118f76342a24193c7f31feb13e5a *R/plotRE.R
 ebe5144908c219da37566563f15d749d *R/predict.R
-f7f84cf432e3cbf8e3d15d81e5759dcb *R/printFunctions.R
+5eb1fc07b8ba6e914b70d86366b1cdb7 *R/printFunctions.R
 adb9fc05960f0e92281da3866624d292 *R/tweedieGLMM.R
 3425545600c25976a822209ad9058d6f *README.md
-5e59c1e0e9a43864270d2f7b1b2a497e *build/partial.rdb
+9cbfaa14326ae75f27a8abd610adb277 *build/partial.rdb
 89fc2cfad230c0beb4453b3f2b272d09 *build/vignette.rds
 702a315cdbf00d335b1683811069ab7e *data/dataCar.rda
 97d4d8594433da3dfc8b41c1c54e4097 *data/hachemeisterLong.rda
 7f08755fb4b2199d42091a1eee18f6dc *inst/CITATION
 166864d8f7796fb3501b33311bcac0a7 *inst/doc/actuaRE.R
 222f6c15fc7cd73f969d0c2ef7e8fde9 *inst/doc/actuaRE.Rmd
-06aaf4c62d4376e0b0fd39a73c8911fa *inst/doc/actuaRE.html
+fec474f26f1c40f87f7498f5eaf7bdfc *inst/doc/actuaRE.html
 e764f313eb264d3320a60644f52dbc32 *inst/figures/actuaRE.png
 50e5deeac9679eed4d135dec6e7efb49 *man/BalanceProperty.Rd
 6a746b9ac1b518c35560711305069fdd *man/NrUnique.Rd
